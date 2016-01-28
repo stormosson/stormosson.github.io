@@ -1,1 +1,0 @@
-Using github-pages to display javadocs
