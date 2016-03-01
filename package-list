@@ -1,4 +1,5 @@
 pset.one
+pset.three
 pset.two.CyclicBarrier
 pset.two.PriorityQueue
 pset.two.ReadWriteLock
